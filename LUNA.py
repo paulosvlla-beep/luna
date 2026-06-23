@@ -75,6 +75,7 @@ def responder(intencao, nome, memoria):
         return f"LUNA AI: Desculpe, {nome}, ainda estou aprendendo e não entendi sua mensagem. Mas estou aqui para ajudar no que puder!"
 
 print("Ola, eu sou a LUNA AI.")
+print("Sou uma assistente virtual que pode conversar com você sobre diversos assuntos.")
 print("Ainda estou aprendendo, mas ja consigo conversar um pouco.")
 
 while True:
